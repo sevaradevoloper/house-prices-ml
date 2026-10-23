@@ -5,5 +5,3 @@ Kaggle House Prices competition loyihasi uchun ML muhiti.
 ## Faza A
 Muhit tayyor, Kaggle ma'lumotlari yuklandi.
 
-## Faza A
-Muhit tayyor, Kaggle ma'lumotlari yuklandi.
